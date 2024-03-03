@@ -12,13 +12,13 @@
    Clone the repository containing the Spring Boot application from GitHub or your preferred version control system.
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/hanifmasy/sort-character-app.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd SortCharacterApplication
+   cd sort-character-app
    ```
 
 3. **Build the Project:**
